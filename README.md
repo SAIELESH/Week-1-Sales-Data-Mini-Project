@@ -6,7 +6,7 @@ Clean a messy sales dataset, analyze it using groupby, and export the result as 
 ## Files
 - `sales_messy.csv` - Original input CSV
 - `cleaned_sales.parquet` - Output file
-- `project.ipynb` - Jupyter Notebook with the full code
+- `project-Week1.ipynb` - Jupyter Notebook with the full code
 
 ## Tech Used
 - Python
